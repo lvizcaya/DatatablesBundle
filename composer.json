@@ -1,9 +1,9 @@
 {
-    "name": "sg/datatablesbundle",
+    "name": "lvizcaya/datatablesbundle",
     "type": "symfony-bundle",
     "description": "Symfony2 Datatable Bundle For Doctrine2 Entities",
     "keywords": ["symfony2", "datatable", "grid", "table", "datagrid", "pagination"],
-    "homepage": "https://github.com/stwe/DatatablesBundle",
+    "homepage": "https://github.com/lvizcaya/DatatablesBundle",
     "license": "MIT",
     "authors": [
         {
@@ -31,7 +31,7 @@
         "moment/moment": "2.10.2"
     },
     "autoload": {
-        "psr-0": { "Sg\\DatatablesBundle": "" }
+        "psr-0": { "OF\\DatatablesBundle": "" }
     },
-    "target-dir": "Sg/DatatablesBundle"
+    "target-dir": "OF/DatatablesBundle"
 }
